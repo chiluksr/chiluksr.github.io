@@ -4589,7 +4589,7 @@ input, select, textarea {
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		display: none;
 		-webkit-overflow-scrolling: touch;
-		background: #ffffff;
+		background: #383737;
 		box-shadow: none;
 		color: #f5f6f8;
 		height: 100%;
